@@ -1,4 +1,4 @@
-const adicionar = (a: number, b: number) => (a + b)
+const adicionar = (a, b) => (a + b)
 
 let valor = 100;
 const total = adicionar(20, 30);
